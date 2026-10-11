@@ -1,0 +1,9 @@
+{
+  "display_name": "Lorebook Exporter",
+  "loading_order": 10,
+  "requires": [],
+  "version": "1.0.0",
+  "author": "",
+  "js": "index.js",
+  "homePage": ""
+}
